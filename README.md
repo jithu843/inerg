@@ -6,7 +6,7 @@ This project provides a Python API for querying annual production data for oil, 
 
 ## Installation
 1. Clone the repository:
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/jithu843/inerg.git
 2. Navigate to the project directory:
     cd your-repository
 3. Set up a virtual environment:
